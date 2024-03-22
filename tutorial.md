@@ -51,7 +51,7 @@ This tutorial is designed for researchers, system designers, and developers inte
 
 ## Agenda
 
-| Time   | Topic                                                        | Speaker              | Source | Slides |
+| Time   | Topic                                                        | Speaker              | Slides | Code |
 |--------|--------------------------------------------------------------|----------------------|-------------|--------|
 | **1:40pm** | Part 1: Introduction to OpenHarmonyOS (20min)               | Yubin Xia            |             |        |
 | **2:00pm** | Exercise 1: How to build OpenHarmony & Toolchains for OpenHarmony (20min) | All |             |        |
