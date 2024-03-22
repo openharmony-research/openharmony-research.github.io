@@ -4,21 +4,21 @@ doks:
     color_theme: blue # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
-            text: OpenHarmony OS for Research
+            text: OpenHarmony OS Research
             image:
         nav:
-            - item_name: Item 1
-              item_url: '#'
-            - item_name: Item 2
-              item_url: '#'
-            - item_name: Item 3
-              item_url: '#'
+            - item_name: Tutorial
+              item_url: 'tutorial'
+                #- item_name: Item 2
+                #  item_url: '#'
+            - item_name: Contact us 
+              item_url: 'authors'
     footer:
         content:
             logo:
                 text: OpenHarmony OS
                 image:
-            copyright: Copyright &copy; 2017. - OpenHarmony OS Research Group<br>All rights reserved.
+            copyright: Copyright &copy; 2024. - OpenHarmony OS Research Group<br>All rights reserved.
         social_list:
             - network_name: github
               profile_url: 'https://github.com/openharmony-research'

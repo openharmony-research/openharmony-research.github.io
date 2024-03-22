@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: Authors
-description: OpenHarmony
+title: Group for OpenHarmony OS Research
+description: We are an open-community that welcome researchers, professors, experts, and all related people to join us to explore research projects based/for OpenHarmony.
 
 # Micro navigation
 micro_nav: true
@@ -21,4 +21,4 @@ micro_nav: true
 #         url: '#'
 ---
 
-HIIII............
+Members Todo
