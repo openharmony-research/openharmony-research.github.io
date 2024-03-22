@@ -30,6 +30,23 @@ micro_nav: true
 
 ## Introduction
 
+In the swiftly changing world of technology, mobile operating systems are advancing towards a more distributed, interconnected, and intelligent framework. This evolution demands the creation of operating systems and hardware architectures that are not only secure but also exhibit peak performance and user-friendly simplicity. OpenHarmony (https://openharmony.cn/) stands at the forefront of this revolution as a cutting-edge operating system. It enables developers to craft secure, interconnected mobile ecosystems through a synergistic approach of hardware-OS co-design. This tutorial offers a comprehensive look into the development of futuristic mobile operating systems and architectural designs, using OpenHarmony as the pivotal platform.
+
+In this tutorial, our main goal is to facilitate a practical learning journey. We'll embark on a detailed exploration of the OpenHarmony operating system, delving into its core principles and structural design. The tutorial will encompass several key areas: firstly, constructing system security prototypes within the OpenHarmony framework, with an emphasis on integrating Trusted Execution Environments (TEE) like RISC-V Penglai. Secondly, we'll focus on utilizing OpenHarmony's distributed hardware abstraction capabilities to efficiently connect multiple OpenHarmony devices. Lastly, we will cover the "develop once, run anywhere" paradigm, emphasizing the cross-platform compatibility of OpenHarmony.
+
+The tutorial will cover the following key topics:
+
+1. Understanding the evolving landscape of mobile operating systems and their security requirements.
+2. Familiarizing yourself with the features and architecture of OpenHarmony.
+3. Step-by-step guidance on building system security prototypes (TEE, application authority) based on OpenHarmony.
+4. Step-by-step guidance on building an interconnected system using the distributed capability based on OpenHarmony (e.g., distributed TEE).
+5. Step-by-step guidance on how to develop OpenHarmony applications once but run on different platforms
+6. Demonstrating how OpenHarmony and related systems facilitate novel ideas and reliable experimentation for researchers and system designers.
+
+This tutorial is designed for researchers, system designers, and developers interested in exploring and harnessing the potential of OpenHarmony to create next-generation mobile OS solutions. Prior knowledge of operating systems and basic programming concepts would be beneficial.
+
+Join us (!!!) in this tutorial to unlock new opportunities and pave the way for secure, interconnected and efficient mobile systems using OpenHarmony.
+
 ## Organizers
 
 ## Agenda
