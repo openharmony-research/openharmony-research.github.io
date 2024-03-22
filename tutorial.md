@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: ASPLOS 2024 tutorial
+title: ASPLOS'24 tutorial
 description: "Exploring System Research with OpenHarmony OS: A Practical Tutorial"
 
 # Author box

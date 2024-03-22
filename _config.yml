@@ -8,11 +8,11 @@ doks:
             image:
         nav:
             - item_name: Tutorial
-              item_url: 'tutorial'
+              item_url: '/tutorial'
                 #- item_name: Item 2
                 #  item_url: '#'
             - item_name: Contact us 
-              item_url: 'authors'
+              item_url: '/authors'
     footer:
         content:
             logo:
