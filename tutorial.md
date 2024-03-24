@@ -67,7 +67,10 @@ This tutorial is designed for researchers, system designers, and developers inte
 
 ## Credits
 
-We thanks xx for their supports for the 1st OpenHarmony Research Tutorial.
-Specifically, Jiageng Yu and Yang Tai help on the OpenHarmony Simulator (based on their PolyOS project).
+We thanks the following people for their huge supports for the 1st OpenHarmony Research Tutorial (in no particular order).
 
-
+* OpenHarmony TSC.
+* Jiageng Yu (于佳耘, ISCAS) and Yang Tai (邰阳, ISCAS) help on the OpenHarmony Simulator (based on their PolyOS project) that is used for demos/experiments.
+* Ming Fu gives suggestions on the content of this tutorial.
+* Yutao Liu gives suggestions on the content of this tutorial.
+* Guo Liu (刘果)
