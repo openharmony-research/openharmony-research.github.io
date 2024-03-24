@@ -51,6 +51,9 @@ This tutorial is designed for researchers, system designers, and developers inte
 
 ## Agenda
 
+**Date: Saturday, April 27th, Afternoon**
+
+
 | Time   | Topic                                                        | Speaker              | Slides | Code |
 |--------|--------------------------------------------------------------|----------------------|-------------|--------|
 | **1:40pm** | Part 1: Introduction to OpenHarmonyOS (20min)               | Yubin Xia            |             |        |
