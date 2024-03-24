@@ -54,7 +54,7 @@ This tutorial is designed for researchers, system designers, and developers inte
 * **Jing Zhang**, Master student, Shanghai Jiao Tong University
 * **Erhu Feng**, Ph.D student, Shanghai Jiao Tong University
 * **Yubin Xia**, Full Professor, Shanghai Jiao Tong University
-* **Zeyu Mi**, Assistant Professor, Shanghai Jiao Tong University
+* **Zeyu Mi**, Associate Professor, Shanghai Jiao Tong University
 * **Qingyuan Liu**, Ph.D student, Shanghai Jiao Tong University
 
 
