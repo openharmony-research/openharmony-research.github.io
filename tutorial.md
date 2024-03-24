@@ -53,6 +53,8 @@ This tutorial is designed for researchers, system designers, and developers inte
 
 **Date: Saturday, April 27th, Afternoon**
 
+**Location: Hilton La Jolla Torrey Pines, San Diego, California (with ASPLOS'24)**
+
 
 | Time   | Topic                                                        | Speaker              | Slides | Code |
 |--------|--------------------------------------------------------------|----------------------|-------------|--------|
