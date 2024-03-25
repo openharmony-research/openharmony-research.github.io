@@ -45,7 +45,10 @@ The tutorial will cover the following key topics:
 
 This tutorial is designed for researchers, system designers, and developers interested in exploring and harnessing the potential of OpenHarmony to create next-generation mobile OS solutions. Prior knowledge of operating systems and basic programming concepts would be beneficial.
 
-**Join us (!!!)** in this tutorial to unlock new opportunities and pave the way for secure, interconnected and efficient mobile systems using OpenHarmony.
+
+<div class="callout callout--warning">
+    <p><strong>Join us (!!!)</strong> In this tutorial to unlock new opportunities and pave the way for secure, interconnected and efficient mobile systems using OpenHarmony. </p>
+</div>
 
 ## Organizers
 

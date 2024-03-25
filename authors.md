@@ -26,6 +26,6 @@ micro_nav: true
 * Dong Du, Shanghai Jiao Tong University
 * Zeyu Mi, Shanghai Jiao Tong University
 
-**Contact us**:
-Please contact Dong (dd_nirvana@sjtu.edu.cn) if you have any questions or want to join in.
- 
+<div class="callout callout--warning">
+    <p><strong>Contact us!</strong> Please contact Dong (dd_nirvana@sjtu.edu.cn) if you have any questions or want to join in. </p>
+</div>
