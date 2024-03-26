@@ -55,8 +55,8 @@ micro_nav: true
   </div>
   <div class="media-left__content">
     <strong>Zeyu Mi</strong>
-    <p>I am an associate professor at School of Software, Shanghai Jiao Tong University (SJTU). I obtained my Ph.D. in computer science from SJTU, advised by Prof.</p>
-    <p>Haibo Chen and Prof. Binyu Zang. My research interests include AIGC systems, operating systems, system virtualization, and system security. I obtained my bachelor degree in software engineering from Nanjing University in 2014.</p>
+    <p>I am an associate professor at School of Software, Shanghai Jiao Tong University (SJTU).</p>
+    <p>I obtained my Ph.D. in computer science from SJTU, advised by Prof. Haibo Chen and Prof. Binyu Zang. My research interests include AIGC systems, operating systems, system virtualization, and system security. I obtained my bachelor degree in software engineering from Nanjing University in 2014.</p>
   </div>
 </div>
 
