@@ -65,7 +65,7 @@ This tutorial is designed for researchers, system designers, and developers inte
   </div>
   <div class="media-left__content">
     <strong>Dong Du</strong>
-    <p>I am an Assistant Professor in the Institute of parallel and distributed systems (IPADS), Shanghai Jiao Tong University. My research interests include operating systems, architecture, system security (TEE), serverless computing and HW/SW co-design. I have built several systems including Penglai TEE (state-of-the-art RISC-V TEE), serverless systems (Catalyzer, ServerlessBench, and Molecule), and RISC-V IPC extension (XPC). I am also working on open-sourced communities, including RISC-V (SPMP TG chair), openEuler (RISC-V SIG maintainer) and OpenHarmony (RISC-V and TEE SIG maintainer).</p>
+    <p>Assistant Professor, IPADS Lab, Shanghai Jiao Tong University. Research interests include OS and architecture</p>
   </div>
 </div>
 
