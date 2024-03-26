@@ -102,7 +102,7 @@ This tutorial is designed for researchers, system designers, and developers inte
   </div>
   <div class="media-left__content">
     <strong>Yubin Xia</strong>
-    <p>Full Professor, IPADS Lab, Shanghai Jiao Tong University. Research interests include operating systems, computer architecture. 
+    <p>Full Professor, IPADS Lab, Shanghai Jiao Tong University. Research interests include operating systems, computer architecture.
 </p>
   </div>
 </div>
@@ -136,11 +136,11 @@ This tutorial is designed for researchers, system designers, and developers inte
 
 ### Prerequisite
 
-**Prior knowledge of operating systems and basic programming concepts would be beneficial.**
+- **Prior knowledge of operating systems and basic programming concepts would be beneficial.**
 
-**Please bring a laptop, that can allow you do some experiments :)**
+- **Please bring a laptop, that can allow you do some experiments :)**
 
-**Devices: we will provide simulator for OpenHarmony, and cloud servers that you can connect for most experiments. We will also bring some dev-boards that allow you to try the OS on real devices.**
+- **Devices: we will provide simulator for OpenHarmony, and cloud servers that you can connect for most experiments. We will also bring some dev-boards that allow you to try the OS on real devices.**
 
 ### Contents and Timeline
 
