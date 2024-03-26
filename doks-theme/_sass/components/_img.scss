@@ -1,0 +1,94 @@
+/* ----- Media Left Layout ----- */
+.media-left {
+  display: flex;
+  align-items: center;
+  margin: 0 0 1.25rem 0;
+
+  .media-left__image {
+    border-radius: 15%;
+    flex: 0 0 20%; // Set the image width to 30% of the container and prevent it from growing or shrinking
+    width: 80%; // Width relative to its parent
+    height: auto; // Height adjusts to keep aspect ratio
+    overflow: hidden;
+    margin-right: 2rem; // Space between image and text
+
+    img {
+      width: 100%; // Make sure the image fills the container
+      height: auto;
+      display: block;
+    }
+  }
+
+  .media-left__content {
+    flex: 1; // Allows the content to fill the rest of the space
+    padding-left: 2rem; // Optional, to align with the top of the image if needed
+
+    p {
+      // font-size: .9375em;
+      font-size: 1em;
+      line-height: 1.8;
+      margin-bottom: .625rem;
+    }
+
+    strong {
+      font-size: 1.5em;
+      display: block;
+      color: $color-dark;
+      font-family: $font-family-secondary;
+      font-weight: 1000;
+      margin-bottom: .625rem;
+    }
+  }
+
+  /* ----- Variations ----- */
+  &--success {
+    .media-left__content {
+      strong {
+        color: darken($color-callout-success, 82%);
+      }
+    }
+  }
+
+  &--info {
+    .media-left__content {
+      strong {
+        color: darken($color-callout-info, 82%);
+      }
+    }
+  }
+
+  &--warning {
+    .media-left__content {
+      strong {
+        color: darken($color-callout-warning, 70%);
+      }
+    }
+  }
+
+  &--danger {
+    .media-left__content {
+      strong {
+        color: darken($color-callout-danger, 70%);
+      }
+    }
+  }
+
+  &--tutorial {
+    .media-left__content {
+      strong {
+        font-size: 1.3em;
+        color: darken($color-callout-info, 70%);
+      }
+
+      p {
+        font-size: .9375em;
+        line-height: 1.8;
+        margin-bottom: .625rem;
+      }
+
+    }
+    .media-left__image {
+      flex: 0 0 15%;
+    }
+  }
+}

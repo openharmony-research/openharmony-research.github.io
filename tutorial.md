@@ -52,15 +52,73 @@ This tutorial is designed for researchers, system designers, and developers inte
 
 ## Organizers
 
-
-* **Dong Du**, Assistant Professor, Shanghai Jiao Tong University, dd_nirvana@sjtu.edu.cn
+<!-- * **Dong Du**, Assistant Professor, Shanghai Jiao Tong University, dd_nirvana@sjtu.edu.cn
 * **Jing Zhang**, Master student, Shanghai Jiao Tong University
 * **Erhu Feng**, Ph.D student, Shanghai Jiao Tong University
 * **Yubin Xia**, Full Professor, Shanghai Jiao Tong University
 * **Zeyu Mi**, Associate Professor, Shanghai Jiao Tong University
-* **Qingyuan Liu**, Ph.D student, Shanghai Jiao Tong University
+* **Qingyuan Liu**, Ph.D student, Shanghai Jiao Tong University -->
 
+<div class="media-left media-left--tutorial">
+  <div class="media-left__image">
+    <img src="/imgs/dongdu-2024-1400.webp" alt="Description of Image">
+  </div>
+  <div class="media-left__content">
+    <strong>Dong Du</strong>
+    <p>I am an Assistant Professor in the Institute of parallel and distributed systems (IPADS), Shanghai Jiao Tong University. My research interests include operating systems, architecture, system security (TEE), serverless computing and HW/SW co-design. I have built several systems including Penglai TEE (state-of-the-art RISC-V TEE), serverless systems (Catalyzer, ServerlessBench, and Molecule), and RISC-V IPC extension (XPC). I am also working on open-sourced communities, including RISC-V (SPMP TG chair), openEuler (RISC-V SIG maintainer) and OpenHarmony (RISC-V and TEE SIG maintainer).</p>
+  </div>
+</div>
 
+<div class="media-left media-left--tutorial">
+  <div class="media-left__image">
+    <img src="/imgs/jing_zhang.jpg" alt="Description of Image">
+  </div>
+  <div class="media-left__content">
+    <strong>Jing Zhang</strong>
+    <p>I am a first-year master's student at the Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University, with a primary research focus on operating systems. I am dedicated to the academic research and development of the open-source project OpenHarmony.</p>
+  </div>
+</div>
+
+<div class="media-left media-left--tutorial">
+  <div class="media-left__image">
+    <img src="/imgs/erhu_feng.jpg" alt="Description of Image">
+  </div>
+  <div class="media-left__content">
+    <strong>Erhu Feng</strong>
+    <p> Institute of Parallel and Distributed Systems, Shanghai Jiaotong University, fourth year PhD student, main research direction is system architecture and security, published many academic papers in OSDI, HPCA and other international conferences and journals, participated in China's first open source enclave project (Penglai), and at the same time, committed to open source development as well as product landing.</p>
+  </div>
+</div>
+
+<div class="media-left media-left--tutorial">
+  <div class="media-left__image">
+    <!-- <img src="/imgs/xiayubin-new.jpg" alt="Description of Image"> -->
+    <img src="/imgs/xiayubin.png" alt="Description of Image">
+  </div>
+  <div class="media-left__content">
+    <strong>Yubin Xia</strong>
+    <p>I am a professor in School of Software at Shanghai Jiao Tong University and a member of Institute of Parallel And Distributed Systems (IPADS). My research interests include operating systems, computer architecture. Currently, I'm now focusing on hardware-software co-design for better performance and isolation. Some recent projects by my students and colleagues include the Penglai (蓬莱) RISC-V TEE, the XPC architecture extension for fast IPC, the Catalyzer serverless framework with &lt; 1ms startup latency, the ServerlessBench test suit for serverless frameworks, and the DeSearch search engine for web3.</p>
+  </div>
+</div>
+
+<div class="media-left media-left--tutorial">
+  <div class="media-left__image">
+    <img src="/imgs/zeyumi.jpg" alt="Description of Image">
+  </div>
+  <div class="media-left__content">
+    <strong>Zeyu Mi</strong>
+    <p>I am an associate professor at School of Software, Shanghai Jiao Tong University (SJTU). I obtained my Ph.D. in computer science from SJTU, advised by Prof. Haibo Chen and Prof. Binyu Zang. My research interests include AIGC systems, operating systems, system virtualization, and system security. I obtained my bachelor degree in software engineering from Nanjing University in 2014.</p>
+  </div>
+</div>
+
+<div class="media-left media-left--tutorial">
+  <div class="media-left__image">
+    <img src="/imgs/qingyuan_liu.jpg" alt="Description of Image">
+  </div>
+  <div class="media-left__content">
+    <strong>Qingyuan Liu</strong>
+    <p>I am a third-year doctoral candidate at the Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University. Under the guidance of Professors Chen Haibo, Xia Yubin, and Du Dong, my current main research areas are operating systems, virtualization, and cloud computing.</p>
+  </div>
+</div>
 
 ## Agenda
 
