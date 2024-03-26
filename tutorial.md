@@ -30,20 +30,25 @@ micro_nav: true
 
 ## Introduction
 
-In the swiftly changing world of technology, mobile operating systems are advancing towards a more distributed, interconnected, and intelligent framework. This evolution demands the creation of operating systems and hardware architectures that are not only secure but also exhibit peak performance and user-friendly simplicity. OpenHarmony (https://openharmony.cn/) stands at the forefront of this revolution as a cutting-edge operating system. It enables developers to craft secure, interconnected mobile ecosystems through a synergistic approach of hardware-OS co-design. This tutorial offers a comprehensive look into the development of futuristic mobile operating systems and architectural designs, using OpenHarmony as the pivotal platform.
+In the swiftly changing world of technology, **mobile operating systems** are advancing towards a more distributed, interconnected, and intelligent framework. This evolution demands the creation of operating systems and hardware architectures that are not only secure but also exhibit peak performance and user-friendly simplicity.
+**[OpenHarmony](https://openharmony.cn/)** stands at the forefront of this revolution as a cutting-edge OS.
+It enables developers to craft secure, interconnected mobile ecosystems through a synergistic approach of hardware-OS co-design.
+**This tutorial offers a comprehensive look into the development of futuristic mobile operating systems and architectural designs, using OpenHarmony as the pivotal platform.**
 
-In this tutorial, our main goal is to facilitate a practical learning journey. We'll embark on a detailed exploration of the OpenHarmony operating system, delving into its core principles and structural design. The tutorial will encompass several key areas: firstly, constructing system security prototypes within the OpenHarmony framework, with an emphasis on integrating Trusted Execution Environments (TEE) like RISC-V Penglai. Secondly, we'll focus on utilizing OpenHarmony's distributed hardware abstraction capabilities to efficiently connect multiple OpenHarmony devices. Lastly, we will cover the "develop once, run anywhere" paradigm, emphasizing the cross-platform compatibility of OpenHarmony.
+In this tutorial, our main goal is to facilitate a practical learning journey. We'll embark on a detailed exploration of the OpenHarmony operating system, delving into its core principles and structural design. The tutorial will encompass several key areas: firstly, constructing system security prototypes within the OpenHarmony framework, with an emphasis on integrating Trusted Execution Environments (TEE) like RISC-V Penglai. Secondly, we'll focus on utilizing OpenHarmony's distributed hardware abstraction capabilities to efficiently connect multiple OpenHarmony devices.
+Lastly, we will show how OpenHarmony enables top-tier research works like VSync (**ASPLOS'21 Distinguished Paper**) and Penglai (**OSDI'21**).
 
 The tutorial will cover the following key topics:
 
-1. Understanding the evolving landscape of mobile operating systems and their security requirements.
+1. Understanding the evolving landscape of mobile OSes and their security requirements.
 2. Familiarizing yourself with the features and architecture of OpenHarmony.
 3. Step-by-step guidance on building system security prototypes (TEE, application authority) based on OpenHarmony.
 4. Step-by-step guidance on building an interconnected system using the distributed capability based on OpenHarmony (e.g., distributed TEE).
-5. Step-by-step guidance on how to develop OpenHarmony applications once but run on different platforms
+5. Step-by-step guidance on verification and optimization for synchronization primitives based on OpenHarmoy with VSync/LibVSync.
 6. Demonstrating how OpenHarmony and related systems facilitate novel ideas and reliable experimentation for researchers and system designers.
 
-This tutorial is designed for researchers, system designers, and developers interested in exploring and harnessing the potential of OpenHarmony to create next-generation mobile OS solutions. Prior knowledge of operating systems and basic programming concepts would be beneficial.
+This tutorial is designed for researchers, system designers, and developers interested in exploring and harnessing the potential of OpenHarmony to create next-generation mobile OS solutions.
+
 
 
 <div class="callout callout--warning">
@@ -129,19 +134,30 @@ This tutorial is designed for researchers, system designers, and developers inte
 
 **Location: Hilton La Jolla Torrey Pines, San Diego, California (with ASPLOS'24)**
 
+### Prerequisite
+
+**Prior knowledge of operating systems and basic programming concepts would be beneficial.**
+
+**Please bring a laptop, that can allow you do some experiments :)**
+
+**Devices: we will provide simulator for OpenHarmony, and cloud servers that you can connect for most experiments. We will also bring some dev-boards that allow you to try the OS on real devices. **
+
+### Contents and Timeline
+
+The planed topics and timeline are the following:
 
 | Time   | Topic                                                        | Speaker              | Slides | Code |
 |--------|--------------------------------------------------------------|----------------------|-------------|--------|
-| **1:40pm** | Part 1: Introduction to OpenHarmonyOS (20min)               | Yubin Xia            |             |        |
+| **1:40pm** | Part 1: Introduction to OpenHarmony (20min)               | Yubin Xia            |             |        |
 | **2:00pm** | Exercise 1: How to build OpenHarmony & Toolchains for OpenHarmony (20min) | All |             |        |
 | **2:20pm** | Part 2: Distributed functionality of OpenHarmony (20min)    | Dong Du              |             |        |
 | **2:50pm** | Coffee Break (20min～30min)                                  | \ | \ | \ |
-| **3:20pm** | Exercise 2: Distributed Capability of OpenHarmony OS (20min) | Jing Zhang & Qingyuan Liu |       |        |
-| **3:40pm** | Part 3: Declarative Application Development /OH Concurrency Research (20min) | Diogo |             |        |
-| **4:00pm** | Exercise 3: Declarative UI and App Development demo VSync/LibVSync Demo on OH (20min) | Diogo | |        |
-| **4:20pm** | Part 4: Security in OpenHarmony (20min)                     | Erhu Feng            |             |        |
-| **4:40pm** | Exercise 4: Security demo (Penglai)                          | All                  |             |        |
-| **4:55pm** | Conclusion & Remark (Research opportunities & outlook)      | Yubin Xia            |             |        |
+| **3:20pm** | Exercise 2: Distributed Capability of OpenHarmony (20min) | Jing Zhang & Qingyuan Liu |       |        |
+| **3:40pm** | Part 3: Concurrency Research based on OpenHarmony (20min) | Diogo |             |        |
+| **4:00pm** | Exercise 3: VSync/LibVSync Demo (20min) | Diogo | |        |
+| **4:20pm** | Part 4: Security Research based on OpenHarmony (20min)                     | Erhu Feng            |             |        |
+| **4:40pm** | Exercise 4: Penglai TEE Demo                          | All                  |             |        |
+| **4:55pm** | Research Opportunities & Outlook (Conclusion & Remark )      | Yubin Xia            |             |        |
 | **5:00pm** | Q/A                                                          | All                  |             |        |
 
 ## Credits
