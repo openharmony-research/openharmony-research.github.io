@@ -128,6 +128,16 @@ This tutorial is designed for researchers, system designers, and developers inte
   </div>
 </div>
 
+<div class="media-left media-left--tutorial">
+  <div class="media-left__image">
+    <img src="/imgs/diogo-behrens-602fbb95.jpg" alt="Description of Image">
+  </div>
+  <div class="media-left__content">
+    <strong>Diogo Behrens</strong>
+    <p>Behrens is research engineer at Huawei Dresden Research Center, currently leading the System Software Concurrency team. Before joining Huawei in 2019, Diogo was software engineer with focus on stream data processing. He holds a PhD from TU Dresden, Germany.</p>
+  </div>
+</div>
+
 ## Agenda
 
 **Date: Saturday, April 27th, Afternoon**
