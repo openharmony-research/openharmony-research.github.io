@@ -175,7 +175,7 @@ The planed topics and timeline are the following:
 We thanks the following people/organizations for their huge supports for the 1st OpenHarmony Research Tutorial (in no particular order).
 
 * OpenHarmony TSC.
-* Jiageng Yu (于佳耘, ISCAS) and Yang Tai (邰阳, ISCAS) help on the OpenHarmony Simulator (based on their PolyOS project) that is used for demos/experiments.
+* Jiageng Yu (于佳耕, ISCAS) and Yang Tai (邰阳, ISCAS) help on the OpenHarmony Simulator (based on their PolyOS project) that is used for demos/experiments.
 * Ming Fu gives suggestions on the content of this tutorial.
 * Yutao Liu gives suggestions on the content of this tutorial.
 * Guo Liu (刘果)
