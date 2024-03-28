@@ -172,7 +172,7 @@ The planed topics and timeline are the following:
 
 ## Credits
 
-We thanks the following people/organizations for their huge supports for the 1st OpenHarmony Research Tutorial (in no particular order).
+We thank the following people/organizations for their huge supports for the 1st OpenHarmony Research Tutorial (in no particular order).
 
 * OpenHarmony TSC.
 * Jiageng Yu (于佳耕, ISCAS) and Yang Tai (邰阳, ISCAS) help on the OpenHarmony Simulator (based on their PolyOS project) that is used for demos/experiments.
