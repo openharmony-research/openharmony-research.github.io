@@ -134,7 +134,7 @@ This tutorial is designed for researchers, system designers, and developers inte
   </div>
   <div class="media-left__content">
     <strong>Diogo Behrens</strong>
-    <p>Behrens is research engineer at Huawei Dresden Research Center, currently leading the System Software Concurrency team. Before joining Huawei in 2019, Diogo was software engineer with focus on stream data processing. He holds a PhD from TU Dresden, Germany.</p>
+    <p>Behrens is research engineer at HW Dresden Research Center, currently leading the System Software Concurrency team. Before joining HW in 2019, Diogo was software engineer with focus on stream data processing. He holds a PhD from TU Dresden, Germany.</p>
   </div>
 </div>
 
@@ -179,4 +179,4 @@ We thank the following people/organizations for their huge supports for the 1st 
 * Ming Fu gives suggestions on the content of this tutorial.
 * Yutao Liu gives suggestions on the content of this tutorial.
 * Guo Liu (刘果)
-* Futurewei Technologies
+* and Others
