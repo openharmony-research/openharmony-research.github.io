@@ -157,14 +157,14 @@ This tutorial is designed for researchers, system designers, and developers inte
 The planed topics and timeline are the following:
 
 | Time   | Topic                                                        | Speaker              | Slides | Code |
-|--------|--------------------------------------------------------------|----------------------|-------------|--------|
+|:-------|:-------------------------------------------------------------|:---------------------|:-----------:|:------:|
 | **1:40pm** | Part 1: Introduction to OpenHarmony (20min)               | Yubin Xia            |             |        |
-| **2:00pm** | Exercise 1: How to build OpenHarmony & Toolchains for OpenHarmony (20min) | All |             |        |
+| **2:00pm** | Exercise 1: How to build OpenHarmony & Toolchains for OpenHarmony (20min) | All |             | [code](https://github.com/openharmony-research/helloworld-demo) |
 | **2:20pm** | Part 2: Distributed functionality of OpenHarmony (20min)    | Dong Du              |             |        |
 | **2:50pm** | Coffee Break (20min～30min)                                  | \ | \ | \ |
-| **3:20pm** | Exercise 2: Distributed Capability of OpenHarmony (20min) | Jing Zhang & Qingyuan Liu |       |        |
-| **3:40pm** | Part 3: Concurrency Research based on OpenHarmony (20min) | Diogo Behrens|             |        |
-| **4:00pm** | Exercise 3: VSync/LibVSync Demo (20min) | Diogo Behrens| |        |
+| **3:20pm** | Exercise 2: Distributed Capability of OpenHarmony (20min) | Jing Zhang <br />& Qingyuan Liu |       | [code](https://github.com/openharmony-research/distributedcalc-demo) |
+| **3:40pm** | Part 3: Concurrency Research based on OpenHarmony (20min) | Diogo Behrens| [slides](https://github.com/openharmony-research/asplos24-slides/raw/main/vsync.pdf) |        |
+| **4:00pm** | Exercise 3: VSync/LibVSync Demo (20min) | Diogo Behrens| [slides](https://github.com/openharmony-research/asplos24-slides/raw/main/vsync.pdf) |        |
 | **4:20pm** | Part 4: Security Research based on OpenHarmony (20min)                     | Erhu Feng            |             |        |
 | **4:40pm** | Exercise 4: Penglai TEE Demo                          | All                  |             |        |
 | **4:55pm** | Research Opportunities & Outlook (Conclusion & Remark )      | Yubin Xia            |             |        |
