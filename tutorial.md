@@ -163,8 +163,7 @@ The planed topics and timeline are the following:
 | **2:20pm** | Part 2: Distributed functionality of OpenHarmony *(20min)*  | Dong Du              |             |        |
 | **2:50pm** | Coffee Break *(20min～30min)*                                | \ | \ | \ |
 | **3:20pm** | Exercise 2: Distributed Capability of OpenHarmony *(20min)* | Jing Zhang & <br />Qingyuan Liu |       | [code](https://github.com/openharmony-research/distributedcalc-demo) |
-| **3:40pm** | Part 3: Concurrency Research based on OpenHarmony *(20min)* | Diogo Behrens| [slides](https://github.com/openharmony-research/asplos24-slides/raw/main/vsync.pdf) |        |
-| **4:00pm** | Exercise 3: VSync/LibVSync Demo *(20min)* | Diogo Behrens| [slides](https://github.com/openharmony-research/asplos24-slides/raw/main/vsync.pdf) |        |
+| **3:40pm** | Part 3 & Exercise3: Concurrency Research based on OpenHarmony *(40min)* | Diogo Behrens| [slides](https://github.com/open-s4c/demo-asplos24) | [code](https://github.com/open-s4c/demo-asplos24) |
 | **4:20pm** | Part 4: Security Research based on OpenHarmony *(20min)*                   | Erhu Feng            |             |        |
 | **4:40pm** | Exercise 4: Penglai TEE Demo                          | All                  |             |        |
 | **4:55pm** | Research Opportunities & Outlook (Conclusion & Remark )      | Yubin Xia            |             |        |
