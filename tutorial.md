@@ -150,6 +150,10 @@ This tutorial is designed for researchers, system designers, and developers inte
 
 - **Please bring a laptop, that can allow you do some experiments :)**
 
+- **Please install some necessary apps in your laptop:**
+  1. **VNC client**: we need to connect up to 2 VNC servers, [realVNC](https://www.realvnc.com/en/) is recommended
+  2. **7z**: we use 7z to decompress pre-compiled images. Download in [official website](https://www.7-zip.org/download.html) is enough
+
 - **Devices: we will provide simulator for OpenHarmony, and cloud servers that you can connect for most experiments. We will also bring some dev-boards that allow you to try the OS on real devices.**
 
 ### Contents and Timeline
