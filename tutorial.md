@@ -147,13 +147,11 @@ This tutorial is designed for researchers, system designers, and developers inte
 ### Prerequisite
 
 - **Prior knowledge of operating systems and basic programming concepts would be beneficial.**
-
 - **Please bring a laptop, that can allow you do some experiments :)**
-
 - **Please install some necessary apps in your laptop:**
   1. **VNC client**: we need to connect up to 2 VNC servers, [realVNC](https://www.realvnc.com/en/) is recommended
   2. **7z**: we use 7z to decompress pre-compiled images. Download in [official website](https://www.7-zip.org/download.html) is enough
-
+  3. **DevEco Studio IDE**: If you want to experience the entire process of compiling an OpenHarmony application, please refer to the slides for Exercise 1 and install DevEco Studio before the tutorial
 - **Devices: we will provide simulator for OpenHarmony, and cloud servers that you can connect for most experiments. We will also bring some dev-boards that allow you to try the OS on real devices.**
 
 ### Contents and Timeline
@@ -163,10 +161,10 @@ The planed topics and timeline are the following:
 | Time   | Topic                                                        | Speaker              | Slides | Code |
 |:-------|:-------------------------------------------------------------|:---------------------|:-----------:|:------:|
 | **1:40pm** | Part 1: Introduction to OpenHarmony *(20min)*             | Yubin Xia            |             |        |
-| **2:00pm** | Exercise 1: How to build OpenHarmony & Toolchains for OpenHarmony<br />*(20min)* | All |             | [code](https://github.com/openharmony-research/helloworld-demo) |
+| **2:00pm** | Exercise 1: How to build OpenHarmony & Toolchains for OpenHarmony<br />*(20min)* | All | [slides](https://ipads.se.sjtu.edu.cn:1313/f/c76f051f2a4547fe8525/) | [code](https://github.com/openharmony-research/helloworld-demo) |
 | **2:20pm** | Part 2: Distributed functionality of OpenHarmony *(20min)*  | Dong Du              |             |        |
 | **2:50pm** | Coffee Break *(20min～30min)*                                | \ | \ | \ |
-| **3:20pm** | Exercise 2: Distributed Capability of OpenHarmony *(20min)* | Jing Zhang & <br />Qingyuan Liu |       | [code](https://github.com/openharmony-research/distributedcalc-demo) |
+| **3:20pm** | Exercise 2: Distributed Capability of OpenHarmony *(20min)* | Jing Zhang & <br />Qingyuan Liu | [slides](https://ipads.se.sjtu.edu.cn:1313/f/54501f8840154e34a195/) | [code](https://github.com/openharmony-research/distributedcalc-demo) |
 | **3:40pm** | Part 3 & Exercise3: Concurrency Research based on OpenHarmony *(40min)* | Diogo Behrens| [slides](https://github.com/open-s4c/demo-asplos24) | [code](https://github.com/open-s4c/demo-asplos24) |
 | **4:20pm** | Part 4: Security Research based on OpenHarmony *(20min)*                   | Erhu Feng            |             |        |
 | **4:40pm** | Exercise 4: Penglai TEE Demo                          | All                  |             |        |
