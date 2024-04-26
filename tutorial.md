@@ -161,10 +161,10 @@ The planed topics and timeline are the following:
 | Time   | Topic                                                        | Speaker              | Slides | Code |
 |:-------|:-------------------------------------------------------------|:---------------------|:-----------:|:------:|
 | **1:40pm** | Part 1: Introduction to OpenHarmony *(20min)*             | Yubin Xia            |             |        |
-| **2:00pm** | Exercise 1: How to build OpenHarmony & Toolchains for OpenHarmony<br />*(20min)* | All | [slides](https://ipads.se.sjtu.edu.cn:1313/f/c76f051f2a4547fe8525/) | [code](https://github.com/openharmony-research/helloworld-demo) |
+| **2:00pm** | Exercise 1: How to build OpenHarmony & Toolchains for OpenHarmony<br />*(20min)* | All | [slides](https://github.com/openharmony-research/asplos24-slides/blob/main/1.5-Exercise.pdf) | [code](https://github.com/openharmony-research/helloworld-demo) |
 | **2:20pm** | Part 2: Distributed functionality of OpenHarmony *(20min)*  | Dong Du              |             |        |
 | **2:50pm** | Coffee Break *(20min～30min)*                                | \ | \ | \ |
-| **3:20pm** | Exercise 2: Distributed Capability of OpenHarmony *(20min)* | Jing Zhang & <br />Qingyuan Liu | [slides](https://ipads.se.sjtu.edu.cn:1313/f/54501f8840154e34a195/) | [code](https://github.com/openharmony-research/distributedcalc-demo) |
+| **3:20pm** | Exercise 2: Distributed Capability of OpenHarmony *(20min)* | Jing Zhang & <br />Qingyuan Liu | [slides](https://github.com/openharmony-research/asplos24-slides/blob/main/2.5-Exercise.pdf) | [code](https://github.com/openharmony-research/distributedcalc-demo) |
 | **3:40pm** | Part 3 & Exercise3: Concurrency Research based on OpenHarmony *(40min)* | Diogo Behrens| [slides](https://github.com/open-s4c/demo-asplos24) | [code](https://github.com/open-s4c/demo-asplos24) |
 | **4:20pm** | Part 4: Security Research based on OpenHarmony *(20min)*                   | Erhu Feng            |             |        |
 | **4:40pm** | Exercise 4: Penglai TEE Demo                          | All                  |             |        |
