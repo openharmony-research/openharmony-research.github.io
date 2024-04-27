@@ -160,14 +160,13 @@ The planed topics and timeline are the following:
 
 | Time   | Topic                                                        | Speaker              | Slides | Code |
 |:-------|:-------------------------------------------------------------|:---------------------|:-----------:|:------:|
-| **1:40pm** | Part 1: Introduction to OpenHarmony *(20min)*             | Yubin Xia            |             |        |
+| **1:40pm** | Part 1: Introduction to OpenHarmony *(20min)*             | Yubin Xia            | [slides](https://github.com/openharmony-research/asplos24-slides/blob/main/1-OH-Introduction-XYB.pdf) |        |
 | **2:00pm** | Exercise 1: How to build OpenHarmony & Toolchains for OpenHarmony<br />*(20min)* | All | [slides](https://github.com/openharmony-research/asplos24-slides/blob/main/1.5-Exercise.pdf) | [code](https://github.com/openharmony-research/helloworld-demo) |
-| **2:20pm** | Part 2: Distributed functionality of OpenHarmony *(20min)*  | Dong Du              |             |        |
+| **2:20pm** | Part 2: Distributed functionality of OpenHarmony *(20min)*  | Dong Du              | [slides](https://github.com/openharmony-research/asplos24-slides/blob/main/2-Distribution-DD.pdf) |        |
 | **2:50pm** | Coffee Break *(20min～30min)*                                | \ | \ | \ |
 | **3:20pm** | Exercise 2: Distributed Capability of OpenHarmony *(20min)* | Jing Zhang & <br />Qingyuan Liu | [slides](https://github.com/openharmony-research/asplos24-slides/blob/main/2.5-Exercise.pdf) | [code](https://github.com/openharmony-research/distributedcalc-demo) |
 | **3:40pm** | Part 3 & Exercise3: Concurrency Research based on OpenHarmony *(40min)* | Diogo Behrens| [slides](https://github.com/open-s4c/demo-asplos24) | [code](https://github.com/open-s4c/demo-asplos24) |
-| **4:20pm** | Part 4: Security Research based on OpenHarmony *(20min)*                   | Erhu Feng            |             |        |
-| **4:40pm** | Exercise 4: Penglai TEE Demo                          | All                  |             |        |
+| **4:20pm** | Part 4 & Exercise: Security Research based on OpenHarmony *(40min)*     | Erhu Feng            | [slides](https://github.com/openharmony-research/asplos24-slides/blob/main/4-OHRISCV-TEE-andExercise-F2H.pdf) | [code1](https://github.com/openharmony-research/test_polyos_with_optee)<br />[code2](https://github.com/openharmony-research/dteegen) |
 | **4:55pm** | Research Opportunities & Outlook (Conclusion & Remark )      | Yubin Xia            |             |        |
 | **5:00pm** | Q/A                                                          | All                  |             |        |
 
