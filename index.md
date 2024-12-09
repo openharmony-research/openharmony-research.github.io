@@ -7,7 +7,7 @@ keywords: OpenHarmony, Operating System, Open-source, SJTU, IPADS
 title: OpenHarmony OS Research
 description: OpenHarmony (OH) is an open-sourced operating system. This website lists research projects on OH and the opportunities to explore new ideas based on OH.
 buttons:
-    - content: Try OH ASPLOS'24 tutorial
+    - content: Try OH ASPLOS'25 tutorial
       url: 'tutorial'
       external_url: false
     # - icon: github
@@ -25,7 +25,7 @@ author:
 # Grid navigation
 grid_navigation:
     - title: Tutorial
-      excerpt: Colocated with [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/)
+      excerpt: Colocated with [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/)
       cta: Read more
       url: 'tutorial'
     - title: Workshop
