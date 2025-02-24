@@ -145,7 +145,7 @@ The planed topics and timeline are the following:
 | Time   | Topic                                                        | Speaker              | Slides | Code |
 |:-------|:-------------------------------------------------------------|:---------------------|:-----------:|:------:|
 | **9:00am** | Part 1: Introduction to OpenHarmony *(10min)* | Yutao Liu | [slides]() | |
-| **9:10am** | Exercise 1: How to build OpenHarmony & Toolchains for OpenHarmony<br />*(20min)* | Jonathan Schwender | [slides]() | [code]() |
+| **9:10am** | Exercise 1: How to build OpenHarmony & Toolchains for OpenHarmony *(20min)* | Jonathan Schwender | [slides]() | [code]() |
 | **9:30am** | Part 2 & Exercise 2: OpenHarmony Application Development 101 *(30min)* | Xinrui Li | [slides]() | [code]() |
 | **10:00am** | Part 3 & Exercise 3: Concurrency Research based on OpenHarmony *(30min)* | Diogo Behrens | [slides]() | [code]() |
 | **10:30am** | Coffee Break *(30min)* | All | \ | \ |
@@ -154,23 +154,13 @@ The planed topics and timeline are the following:
 | **12:00am** | Research Opportunities & Outlook (Conclusion & Remark) *(10min)* | Yutao Liu | | |
 | **5:00pm** | Q/A *(10min)* | All | | |
 
-## Abstract for each topic
+## Topics Introduction
 
-** OpenHarmony Application Development 101 **
-
-This session provides a hands-on introduction to OpenHarmony application development. Through a practical example, we will explore key aspects of OpenHarmony development, including declarative UI design with ArkTs, utilization of system capabilities such as audio, and multi-device collaboration.
-
-** Concurrency Research based on OpenHarmony **
-
-
-** Cangjie for OpenHarmony Native Application Development **
-Cangjie is a new, general-purpose programming language developed by Huawei, designed to improve performance and developer productivity. It is intended for a wide range of scenarios, from servers to OpenHarmony mobile phones.
-
-In this tutorial, we will present an introduction to the Cangjie Programming language, explaining the basics of  its syntax and semantics, before looking at how Cangjie can be used to build rich OpenHarmony applications
-
-The second part of the tutorial will explore Cangjie's Effect Handlers. Effect handlers are and advanced construct for custom concurrency and programmable control flow. We will show how to use this feature, along with some details of the implementation. We will then look at some more complex and practical uses of Effect Handlers in the OpenHarmony ecosystem, demonstrating the power and flexibility of the feature.
-
-** Oniro Introduction and Development Guide **
+| **Part 1: Introduction to OpenHarmony** <br />Intro |
+| **Part 2: OpenHarmony Application Development 101**<br /> This session provides a hands-on introduction to OpenHarmony application development. Through a practical example, we will explore key aspects of OpenHarmony development, including declarative UI design with ArkTs, utilization of system capabilities such as audio, and multi-device collaboration. |
+| **Part 3: Concurrency Research based on OpenHarmony**<br />Intro |
+| **Part 4: Cangjie for OpenHarmony Native Application Development**<br />Cangjie is a new, general-purpose programming language developed by Huawei, designed to improve performance and developer productivity. It is intended for a wide range of scenarios, from servers to OpenHarmony mobile phones. In this tutorial, we will present an introduction to the Cangjie Programming language, explaining the basics of  its syntax and semantics, before looking at how Cangjie can be used to build rich OpenHarmony applications. The second part of the tutorial will explore Cangjie's Effect Handlers. Effect handlers are and advanced construct for custom concurrency and programmable control flow. We will show how to use this feature, along with some details of the implementation. We will then look at some more complex and practical uses of Effect Handlers in the OpenHarmony ecosystem, demonstrating the power and flexibility of the feature. |
+| **Part 5: Oniro Introduction and Development Guide**<br />Intro |
 
 ## Credits
 
