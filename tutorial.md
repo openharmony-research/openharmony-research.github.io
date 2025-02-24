@@ -69,32 +69,9 @@ The tutorial will cover the following key topics:
   </div>
 </div>
 
-
 <div class="media-left media-left--tutorial">
   <div class="media-left__image">
-    <img src="/imgs/dongdu-2024-1400.webp" alt="Description of Image">
-  </div>
-  <div class="media-left__content">
-    <strong>Dong Du</strong>
-    <p>Assistant Professor, IPADS Lab, Shanghai Jiao Tong University. Research interests include OS and architecture.</p>
-  </div>
-</div>
-
-<div class="media-left media-left--tutorial">
-  <div class="media-left__image">
-    <!-- <img src="/imgs/xiayubin-new.jpg" alt="Description of Image"> -->
-    <img src="/imgs/xiayubin.png" alt="Description of Image">
-  </div>
-  <div class="media-left__content">
-    <strong>Yubin Xia</strong>
-    <p>Full Professor, IPADS Lab, Shanghai Jiao Tong University. Research interests include operating systems, computer architecture.
-</p>
-  </div>
-</div>
-
-<div class="media-left media-left--tutorial">
-  <div class="media-left__image">
-    <img src="/imgs/diogo-behrens-602fbb95.jpg" alt="Description of Image">
+    <img src="/imgs/diogo-behrens.jpg" alt="Description of Image">
   </div>
   <div class="media-left__content">
     <strong>Diogo Behrens</strong>
@@ -102,20 +79,107 @@ The tutorial will cover the following key topics:
   </div>
 </div>
 
+<div class="media-left media-left--tutorial">
+  <div class="media-left__image">
+    <img src="/imgs/lixinrui.jpg" alt="Description of Image">
+  </div>
+  <div class="media-left__content">
+    <strong>Xinrui Li</strong>
+    <p>5th year Ph.D. student, IPADS Lab, Shanghai Jiao Tong University. Research focuses on performance optimization in mobile OS. Serve as a teaching assistant for the Computer System Design and Implementation (Using OpenHarmony) course at Shanghai Jiao Tong University.</p>
+  </div>
+</div>
+
+<div class="media-left media-left--tutorial">
+  <div class="media-left__image">
+    <img src="/imgs/magnus-morton.png" alt="Description of Image">
+  </div>
+  <div class="media-left__content">
+    <strong>Magnus Morton</strong>
+    <p>Magnus Morton is an expert in the Programming Languages lab at the Huawei Edinburgh Research Centre, specializing in the research and application of Effect Handlers technology in the Cangjie Programming language.</p>
+</p>
+  </div>
+</div>
+
+<div class="media-left media-left--tutorial">
+  <div class="media-left__image">
+    <img src="/imgs/francesco-pham.jpg" alt="Description of Image">
+  </div>
+  <div class="media-left__content">
+    <strong>Francesco Pham</strong>
+    <p></p>
+</p>
+  </div>
+</div>
+
+<div class="media-left media-left--tutorial">
+  <div class="media-left__image">
+    <img src="/imgs/jonathan-schwender.jpg" alt="Description of Image">
+  </div>
+  <div class="media-left__content">
+    <strong>Jonathan Schwender</strong>
+    <p></p>
+</p>
+  </div>
+</div>
+
 ## Agenda
 
-**TBD**
+**Date: Monday, March 31th, Morning**
 
-**TBD (with ASPLOS'25)**
+**Location: Room Goudriaan I, Postillion Hotel & Convention Centre WTC Rotterdam, Beursplein 37, 3011 AA Rotterdam, The Netherlands. (with ASPLOS & EuroSys 2025)**
 
 ### Prerequisite
 
-**TBD**
+- **Prior knowledge of operating systems and basic programming concepts would be beneficial.**
+- **Please bring a laptop, that can allow you do some experiments :)**
+- **Please install some necessary apps in your laptop:**
+  1. **VNC client**: we need to connect up to 2 VNC servers, [realVNC](https://www.realvnc.com/en/) is recommended
+  2. **7z**: we use 7z to decompress pre-compiled images. Download in [official website](https://www.7-zip.org/download.html) is enough
+  3. **DevEco Studio IDE**: If you want to experience the entire process of compiling an OpenHarmony application, please refer to the slides for Exercise 1 and install DevEco Studio before the tutorial
+- **Devices: we will provide simulator for OpenHarmony, and cloud servers that you can connect for most experiments. We will also bring some dev-boards that allow you to try the OS on real devices.**
 
 ### Contents and Timeline
 
-**TBD**
+The planed topics and timeline are the following:
+
+| Time   | Topic                                                        | Speaker              | Slides | Code |
+|:-------|:-------------------------------------------------------------|:---------------------|:-----------:|:------:|
+| **9:00am** | Part 1: Introduction to OpenHarmony *(10min)* | Yutao Liu | [slides]() | |
+| **9:10am** | Exercise 1: How to build OpenHarmony & Toolchains for OpenHarmony<br />*(20min)* | Jonathan Schwender | [slides]() | [code]() |
+| **9:30am** | Part 2 & Exercise 2: OpenHarmony Application Development 101 *(30min)* | Xinrui Li | [slides]() | [code]() |
+| **10:00am** | Part 3 & Exercise 3: Concurrency Research based on OpenHarmony *(30min)* | Diogo Behrens | [slides]() | [code]() |
+| **10:30am** | Coffee Break *(30min)* | All | \ | \ |
+| **11:00am** | Part 4 & Exercise 4: Cangjie for OpenHarmony Native Application Development *(30min)* | Magnus Morton | [slides]() | [code]() |
+| **11:30am** | Part 5 & Exercise 5: Oniro Introduction and Development Guide *(30min)* | Francesco Pham | [slides]() | [code]() |
+| **12:00am** | Research Opportunities & Outlook (Conclusion & Remark) *(10min)* | Yutao Liu | | |
+| **5:00pm** | Q/A *(10min)* | All | | |
+
+## Abstract for each topic
+
+** OpenHarmony Application Development 101 **
+
+This session provides a hands-on introduction to OpenHarmony application development. Through a practical example, we will explore key aspects of OpenHarmony development, including declarative UI design with ArkTs, utilization of system capabilities such as audio, and multi-device collaboration.
+
+** Concurrency Research based on OpenHarmony **
+
+
+** Cangjie for OpenHarmony Native Application Development **
+Cangjie is a new, general-purpose programming language developed by Huawei, designed to improve performance and developer productivity. It is intended for a wide range of scenarios, from servers to OpenHarmony mobile phones.
+
+In this tutorial, we will present an introduction to the Cangjie Programming language, explaining the basics of  its syntax and semantics, before looking at how Cangjie can be used to build rich OpenHarmony applications
+
+The second part of the tutorial will explore Cangjie's Effect Handlers. Effect handlers are and advanced construct for custom concurrency and programmable control flow. We will show how to use this feature, along with some details of the implementation. We will then look at some more complex and practical uses of Effect Handlers in the OpenHarmony ecosystem, demonstrating the power and flexibility of the feature.
+
+** Oniro Introduction and Development Guide **
 
 ## Credits
 
-**TBD**
+We thank the following people/organizations for their huge supports for the 1st OpenHarmony Research Tutorial (in no particular order).
+
+* OpenHarmony TSC.
+* Ming Fu gives suggestions on the content of this tutorial.
+* Yubin Xia gives suggestions on the content of this tutorial.
+* Dong Du gives suggestions on the content of this tutorial.
+* Jiang Rui gives suggestions on the content of this tutorial.
+* Guo Liu (刘果)
+* and Others
