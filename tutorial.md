@@ -5,27 +5,11 @@ keywords:
 comments: false
 
 # Hero section
-title: ASPLOS'25 tutorial
+title: ASPLOS'25/EuroSys'25 Tutorial
 description: "OpenHarmony OS in System Research: A Practical Guide"
 
-# Author box
-# author:
-#     title: About Author
-#     title_url: '#'
-#     external_url: true
-#     description: Author description
-
-# Micro navigation
 micro_nav: true
 
-# Page navigation
-# page_nav:
-#     prev:
-#         content: Previous page
-#         url: '#'
-#     next:
-#         content: Next page
-#         url: '#'
 ---
 
 ## Introduction
@@ -40,9 +24,9 @@ By the end, participants will have gained a comprehensive, practical understandi
 The tutorial will cover the following key topics:
 
 1. Understanding the evolving landscape of mobile operating systems, elaborating the features and architecture of OpenHarmony.
-2. Step-by-step guidance on building system security prototypes (TEE, application authority) based on OpenHarmony.
-3. Step-by-step guidance on building an scalable concurrent data structure in OpenHarmony with formal methods
-4. Step-by-step guidance on how to develop OpenHarmony applications, as well as how to port existing applications into OpenHarmony
+2. Step-by-step guidance on how to develop OpenHarmony applications with different languages, including ArkTS, Cangjie, Rust, etc.
+3. Step-by-step guidance on building an scalable concurrent data structure in OpenHarmony with formal methods.
+4. Introduction of the Eclipse Oniro in Europe, which hosts the code and repositories for add-ons and enhancements to the OpenHarmony project.
 5. Demonstrating how OpenHarmony enables novel research ideas and supports reliable experimentation for researchers and system designers.
 
 
@@ -51,13 +35,6 @@ The tutorial will cover the following key topics:
 </div>
 
 ## Organizers
-
-<!-- * **Dong Du**, Assistant Professor, Shanghai Jiao Tong University, dd_nirvana@sjtu.edu.cn
-* **Jing Zhang**, Master student, Shanghai Jiao Tong University
-* **Erhu Feng**, Ph.D student, Shanghai Jiao Tong University
-* **Yubin Xia**, Full Professor, Shanghai Jiao Tong University
-* **Zeyu Mi**, Associate Professor, Shanghai Jiao Tong University
-* **Qingyuan Liu**, Ph.D student, Shanghai Jiao Tong University -->
 
 <div class="media-left media-left--tutorial">
   <div class="media-left__image">
@@ -96,7 +73,6 @@ The tutorial will cover the following key topics:
   <div class="media-left__content">
     <strong>Magnus Morton</strong>
     <p>Magnus Morton is an expert in the Programming Languages lab at the Huawei Edinburgh Research Centre, specializing in the research and application of Effect Handlers technology in the Cangjie Programming language.</p>
-</p>
   </div>
 </div>
 
@@ -107,7 +83,6 @@ The tutorial will cover the following key topics:
   <div class="media-left__content">
     <strong>Francesco Pham</strong>
     <p></p>
-</p>
   </div>
 </div>
 
@@ -118,7 +93,6 @@ The tutorial will cover the following key topics:
   <div class="media-left__content">
     <strong>Jonathan Schwender</strong>
     <p></p>
-</p>
   </div>
 </div>
 
@@ -159,7 +133,7 @@ The planed topics and timeline are the following:
 | **Part 1: Introduction to OpenHarmony** <br />Intro |
 | **Part 2: OpenHarmony Application Development 101**<br /> This session provides a hands-on introduction to OpenHarmony application development. Through a practical example, we will explore key aspects of OpenHarmony development, including declarative UI design with ArkTs, utilization of system capabilities such as audio, and multi-device collaboration. |
 | **Part 3: Concurrency Research based on OpenHarmony**<br />Intro |
-| **Part 4: Cangjie for OpenHarmony Native Application Development**<br />Cangjie is a new, general-purpose programming language developed by Huawei, designed to improve performance and developer productivity. It is intended for a wide range of scenarios, from servers to OpenHarmony mobile phones. In this tutorial, we will present an introduction to the Cangjie Programming language, explaining the basics of  its syntax and semantics, before looking at how Cangjie can be used to build rich OpenHarmony applications. The second part of the tutorial will explore Cangjie's Effect Handlers. Effect handlers are and advanced construct for custom concurrency and programmable control flow. We will show how to use this feature, along with some details of the implementation. We will then look at some more complex and practical uses of Effect Handlers in the OpenHarmony ecosystem, demonstrating the power and flexibility of the feature. |
+| **Part 4: Cangjie for OpenHarmony Native Application Development**<br />Cangjie is a new, general-purpose programming language developed by Huawei, designed to improve performance and developer productivity. It is intended for a wide range of scenarios, from servers to OpenHarmony mobile phones. <br />In this tutorial, we will present an introduction to the Cangjie Programming language, explaining the basics of  its syntax and semantics, before looking at how Cangjie can be used to build rich OpenHarmony applications. <br />The second part of the tutorial will explore Cangjie's Effect Handlers. Effect handlers are and advanced construct for custom concurrency and programmable control flow. We will show how to use this feature, along with some details of the implementation. We will then look at some more complex and practical uses of Effect Handlers in the OpenHarmony ecosystem, demonstrating the power and flexibility of the feature. |
 | **Part 5: Oniro Introduction and Development Guide**<br />Intro |
 
 ## Credits
