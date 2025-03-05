@@ -42,7 +42,7 @@ The tutorial will cover the following key topics:
   </div>
   <div class="media-left__content">
     <strong>Yutao Liu</strong>
-    <p>Director of Huawei Dresden Research Center. He received his PhD from Shanghai Jiao Tong University in 2017. Research interests include OS and architecture.</p>
+    <p>Yutao Liu is the director of Huawei Dresden Research Center. He received his PhD from Shanghai Jiao Tong University in 2017. Research interests include OS and architecture.</p>
   </div>
 </div>
 
@@ -52,7 +52,7 @@ The tutorial will cover the following key topics:
   </div>
   <div class="media-left__content">
     <strong>Diogo Behrens</strong>
-    <p>Behrens is the director of Dresden OS Kernel Lab at HW Dresden Research Center. Before joining HW in 2019, Diogo was software engineer with focus on stream data processing. He holds a PhD from TU Dresden, Germany.</p>
+    <p>Diogo Behrens is the director of Dresden OS Kernel Lab at HW Dresden Research Center. Before joining HW in 2019, Diogo was software engineer with focus on stream data processing. He holds a PhD from TU Dresden, Germany.</p>
   </div>
 </div>
 
@@ -62,13 +62,13 @@ The tutorial will cover the following key topics:
   </div>
   <div class="media-left__content">
     <strong>Xinrui Li</strong>
-    <p>5th year Ph.D. student, IPADS Lab, Shanghai Jiao Tong University. Research focuses on performance optimization in mobile OS. Serve as a teaching assistant for the Computer System Design and Implementation (Using OpenHarmony) course at Shanghai Jiao Tong University.</p>
+    <p>Xinrui Li is a 5th year Ph.D. student in IPADS, Shanghai Jiao Tong University. His research focuses on performance optimization in mobile OS. </p>
   </div>
 </div>
 
 <div class="media-left media-left--tutorial">
   <div class="media-left__image">
-    <img src="/imgs/magnus-morton.png" alt="Description of Image">
+    <img src="/imgs/magnus-morton.jpg" alt="Description of Image">
   </div>
   <div class="media-left__content">
     <strong>Magnus Morton</strong>
@@ -82,7 +82,7 @@ The tutorial will cover the following key topics:
   </div>
   <div class="media-left__content">
     <strong>Francesco Pham</strong>
-    <p></p>
+    <p>Francesco is an Open Source Software Engineer and the Committer Representative for the Oniro project, leading Eclipse Oniro for OpenHarmony.</p>
   </div>
 </div>
 
@@ -92,7 +92,7 @@ The tutorial will cover the following key topics:
   </div>
   <div class="media-left__content">
     <strong>Jonathan Schwender</strong>
-    <p></p>
+    <p>Jonathan Schwender is a software engineer at the Huawei Dresden Research Center. He is now a member of the technical steering committee (TSC) for Servo, a web rendering-engine written in Rust.</p>
   </div>
 </div>
 
@@ -124,7 +124,7 @@ The planed topics and timeline are the following:
 | **10:00am** | Part 3 & Exercise 3: Concurrency Research based on OpenHarmony *(30min)* | Diogo Behrens | [slides]() | [code]() |
 | **10:30am** | Coffee Break *(30min)* | All | \ | \ |
 | **11:00am** | Part 4 & Exercise 4: Cangjie for OpenHarmony Native Application Development *(30min)* | Magnus Morton | [slides]() | [code]() |
-| **11:30am** | Part 5 & Exercise 5: Oniro Introduction and Development Guide *(30min)* | Francesco Pham | [slides]() | [code]() |
+| **11:30am** | Part 5 & Exercise 5: Introduction to Oniro: OpenHarmony graphics stack and device bring-up *(30min)* | Francesco Pham | [slides]() | [code]() |
 | **12:00am** | Research Opportunities & Outlook (Conclusion & Remark) *(10min)* | Yutao Liu | | |
 | **5:00pm** | Q/A *(10min)* | All | | |
 
@@ -134,7 +134,7 @@ The planed topics and timeline are the following:
 | **Part 2: OpenHarmony Application Development 101**<br /> This session provides a hands-on introduction to OpenHarmony application development. Through a practical example, we will explore key aspects of OpenHarmony development, including declarative UI design with ArkTs, utilization of system capabilities such as audio, and multi-device collaboration. |
 | **Part 3: Concurrency Research based on OpenHarmony**<br />Intro |
 | **Part 4: Cangjie for OpenHarmony Native Application Development**<br />Cangjie is a new, general-purpose programming language developed by Huawei, designed to improve performance and developer productivity. It is intended for a wide range of scenarios, from servers to OpenHarmony mobile phones. <br />In this tutorial, we will present an introduction to the Cangjie Programming language, explaining the basics of  its syntax and semantics, before looking at how Cangjie can be used to build rich OpenHarmony applications. <br />The second part of the tutorial will explore Cangjie's Effect Handlers. Effect handlers are and advanced construct for custom concurrency and programmable control flow. We will show how to use this feature, along with some details of the implementation. We will then look at some more complex and practical uses of Effect Handlers in the OpenHarmony ecosystem, demonstrating the power and flexibility of the feature. |
-| **Part 5: Oniro Introduction and Development Guide**<br />Intro |
+| **Part 5: Oniro Introduction and Development Guide**<br />Oniro, an open-source project hosted by the Eclipse Foundation, extends OpenHarmony with additional functionalities tailored for global markets. This talk will provide an introduction to the Oniro project, focusing on the OpenHarmony graphics stack and the challenges of enabling new devices. <br />We will explore the architecture of OpenHarmony’s rendering pipeline, including the ArkUI framework, Render Service, and display hardware abstraction. The session will highlight the process of bringing up Oniro/OpenHarmony on new devices, such as the Volla X23 phone and QEMU virtual devices. We will discuss how software rasterization and containerization with LXC facilitated rapid prototyping and deployment. <br />The talk will also feature a hands-on tutorial on building and flashing Oniro/OpenHarmony on a Raspberry Pi and showcase a live demo running on QEMU. Attendees will gain insights into the practical steps of device enablement and the challenges involved in running an open-source OS on diverse hardware. |
 
 ## Credits
 
