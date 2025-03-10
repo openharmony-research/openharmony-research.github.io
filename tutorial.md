@@ -126,6 +126,7 @@ The planed topics and timeline are the following:
 | **11:30am** | Part 5 & Exercise 5: Introduction to Oniro: OpenHarmony graphics stack and device bring-up *(30min)* | Francesco Pham | [slides]() | [code]() |
 | **12:00am** | Research Opportunities & Outlook (Conclusion & Remark) *(10min)* | Yutao Liu | | |
 | **12:10am** | Q/A *(10min)* | All | | |
+
 ## Topics Introduction
 
 | **Part 1: Introduction to OpenHarmony** <br />We’ll begin with an overview of the evolving mobile OS landscape, emphasizing the unique features and architecture of OpenHarmony. OpenHarmony OS is designed to support diverse devices, scenarios, and ecosystems. It features a unified architecture (元OS), superior performance, AI-native capabilities, and all-scenario security, addressing the challenges of a hyper-connected world. The OS aims to empower industries, improve quality of life, and foster innovation in areas like healthcare, transportation, energy, and digital services. The OpenHarmony open-source community is growing rapidly, positioning itself as a foundational platform for the intelligent world of the future.|
