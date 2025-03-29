@@ -106,10 +106,9 @@ The tutorial will cover the following key topics:
 
 - **Prior knowledge of operating systems and basic programming concepts would be beneficial.**
 - **If you want to do some experiments together with the speaker, please bring a laptop, and install some necessary apps in your labtop:**
-  1. **VNC client**: we need to connect up to 2 VNC servers, [realVNC](https://www.realvnc.com/en/) is recommended
-  2. **7z**: we use 7z to decompress pre-compiled images. Download in [official website](https://www.7-zip.org/download.html) is enough
-  3. **DevEco Studio IDE**: If you want to experience the entire process of compiling an OpenHarmony application, please refer to the slides for Exercise 1 and install DevEco Studio before the tutorial
-- **Devices: we will provide simulator for OpenHarmony, and cloud servers that you can connect for most experiments. We will also bring some dev-boards that allow you to try the OS on real devices.**
+  1. **DevEco Studio IDE**: If you want to experience the entire process of compiling an OpenHarmony application, please refer to the slides for Exercise 1 and install DevEco Studio before the tutorial
+  2. **For Cangjie**: Please visit https://cangjie-lang.cn/en/download and download the STS version of Cangjie. Please refer to the "Getting Started" section in README.md in the code repository for this exercise.
+- **Devices: we will bring some dev-boards that allow you to try the OS on real devices.**
 
 ### Contents and Timeline
 
@@ -119,11 +118,11 @@ The planed topics and timeline are the following:
 |:-------|:-------------------------------------------------------------|:---------------------|:-----------:|:------:|
 | **9:00am** | Part 1: Introduction to OpenHarmony *(10min)* | Yutao Liu | [slides]() | |
 | **9:10am** | Exercise 1: How to build OpenHarmony & Toolchains for OpenHarmony *(20min)* | Jonathan Schwender | [slides]() | [code]() |
-| **9:30am** | Part 2 & Exercise 2: OpenHarmony Application Development 101 *(30min)* | Xinrui Li | [slides]() | [code]() |
-| **10:00am** | Part 3 & Exercise 3: Exploring Concurrency Challenges in OpenHarmony: the Tale of the Concurrent cat with Weak Memory *(30min)* | Diogo Behrens | [slides]() | [code]() |
+| **9:30am** | Part 2 & Exercise 2: OpenHarmony Application Development 101 *(30min)* | Xinrui Li | [slides](https://ipads.se.sjtu.edu.cn:1313/f/f83d2c184a674d8497bb/) | [code](https://github.com/IPADSMobileAgent/audio-player-demo) |
+| **10:00am** | Part 3 & Exercise 3: Exploring Concurrency Challenges in OpenHarmony: the Tale of the Concurrent cat with Weak Memory *(30min)* | Diogo Behrens | [slides](https://github.com/open-s4c/demo-ccat) | [code](https://github.com/open-s4c/demo-ccat) |
 | **10:30am** | Coffee Break *(30min)* | All | \ | \ |
-| **11:00am** | Part 4 & Exercise 4: Cangjie for OpenHarmony Native Application Development *(30min)* | Magnus Morton | [slides]() | [code]() |
-| **11:30am** | Part 5 & Exercise 5: Introduction to Oniro: OpenHarmony graphics stack and device bring-up *(30min)* | Francesco Pham | [slides]() | [code]() |
+| **11:00am** | Part 4 & Exercise 4: Cangjie for OpenHarmony Native Application Development *(30min)* | Magnus Morton | [slides]() | [code](https://github.com/magnusmorton/openharmonyASPLOS) |
+| **11:30am** | Part 5 & Exercise 5: Introduction to Oniro: OpenHarmony graphics stack and device bring-up *(30min)* | Francesco Pham | [slides](https://github.com/frankplus/presentations/blob/master/ASPLOS'25_EuroSys'25%20Tutorial%20-%20Francesco%20Pham.pdf) | |
 | **12:00am** | Research Opportunities & Outlook (Conclusion & Remark) *(10min)* | Yutao Liu | | |
 | **12:10am** | Q/A *(10min)* | All | | |
 
