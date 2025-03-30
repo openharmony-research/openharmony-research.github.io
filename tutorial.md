@@ -116,7 +116,7 @@ The planed topics and timeline are the following:
 
 | Time   | Topic                                                        | Speaker              | Slides | Code |
 |:-------|:-------------------------------------------------------------|:---------------------|:-----------:|:------:|
-| **9:00am** | Part 1: Introduction to OpenHarmony *(10min)* | Yutao Liu | [slides](https://openharmonyos.org/slides/Introduction.pptx) | |
+| **9:00am** | Part 1: Introduction to OpenHarmony *(10min)* | Yutao Liu | [slides](https://openharmonyos.org/slides/Introduction.pdf) | |
 | **9:10am** | Exercise 1: How to build OpenHarmony & Toolchains for OpenHarmony *(20min)* | Jonathan Schwender | [slides](https://jschwe.github.io/asplos25-oh-tutorial-1/) | |
 | **9:30am** | Part 2 & Exercise 2: OpenHarmony Application Development 101 *(30min)* | Xinrui Li | [slides](https://ipads.se.sjtu.edu.cn:1313/f/f83d2c184a674d8497bb/) | [code](https://github.com/IPADSMobileAgent/audio-player-demo) |
 | **10:00am** | Part 3 & Exercise 3: Exploring Concurrency Challenges in OpenHarmony: the Tale of the Concurrent cat with Weak Memory *(30min)* | Diogo Behrens | [slides](https://github.com/open-s4c/demo-ccat) | [code](https://github.com/open-s4c/demo-ccat) |
