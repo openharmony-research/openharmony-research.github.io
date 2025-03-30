@@ -116,12 +116,12 @@ The planed topics and timeline are the following:
 
 | Time   | Topic                                                        | Speaker              | Slides | Code |
 |:-------|:-------------------------------------------------------------|:---------------------|:-----------:|:------:|
-| **9:00am** | Part 1: Introduction to OpenHarmony *(10min)* | Yutao Liu | [slides]() | |
-| **9:10am** | Exercise 1: How to build OpenHarmony & Toolchains for OpenHarmony *(20min)* | Jonathan Schwender | [slides]() | [code]() |
+| **9:00am** | Part 1: Introduction to OpenHarmony *(10min)* | Yutao Liu | [slides](https://openharmonyos.org/slides/Introduction.pptx) | |
+| **9:10am** | Exercise 1: How to build OpenHarmony & Toolchains for OpenHarmony *(20min)* | Jonathan Schwender | [slides](https://jschwe.github.io/asplos25-oh-tutorial-1/) | |
 | **9:30am** | Part 2 & Exercise 2: OpenHarmony Application Development 101 *(30min)* | Xinrui Li | [slides](https://ipads.se.sjtu.edu.cn:1313/f/f83d2c184a674d8497bb/) | [code](https://github.com/IPADSMobileAgent/audio-player-demo) |
 | **10:00am** | Part 3 & Exercise 3: Exploring Concurrency Challenges in OpenHarmony: the Tale of the Concurrent cat with Weak Memory *(30min)* | Diogo Behrens | [slides](https://github.com/open-s4c/demo-ccat) | [code](https://github.com/open-s4c/demo-ccat) |
 | **10:30am** | Coffee Break *(30min)* | All | \ | \ |
-| **11:00am** | Part 4 & Exercise 4: Cangjie for OpenHarmony Native Application Development *(30min)* | Magnus Morton | [slides]() | [code](https://github.com/magnusmorton/openharmonyASPLOS) |
+| **11:00am** | Part 4 & Exercise 4: Cangjie for OpenHarmony Native Application Development *(30min)* | Magnus Morton | [slides](https://openharmonyos.org/slides/Cangjie.pptx) | [code](https://github.com/magnusmorton/openharmonyASPLOS) |
 | **11:30am** | Part 5 & Exercise 5: Introduction to Oniro: OpenHarmony graphics stack and device bring-up *(30min)* | Francesco Pham | [slides](https://github.com/frankplus/presentations/blob/master/ASPLOS'25_EuroSys'25%20Tutorial%20-%20Francesco%20Pham.pdf) | |
 | **12:00am** | Research Opportunities & Outlook (Conclusion & Remark) *(10min)* | Yutao Liu | | |
 | **12:10am** | Q/A *(10min)* | All | | |
