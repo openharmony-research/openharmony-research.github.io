@@ -58,21 +58,21 @@ The tutorial is organized around three modules:
   </div>
   <div class="media-left__content">
     <strong>Yubin Xia</strong>
-    <p><em>Invited speaker.</em> Professor at the Institute of Parallel and Distributed Systems (IPADS), School of Computer Science, Shanghai Jiao Tong University. His research focuses on operating systems, computer architecture, and AI, with particular emphasis on model-native operating systems and agent systems for cross-industry applications.</p>
+    <p><em>Invited speaker.</em> Professor at the Institute of Parallel and Distributed Systems (IPADS), School of Computer Science, Shanghai Jiao Tong University. His research focuses on operating systems, computer architecture, and AI, with particular emphasis on model-native operating systems and agent systems for cross-industry applications. His recent projects include MobiAgent, Penglai, XPC, and Catalyzer.</p>
   </div>
 </div>
 
 <div class="media-left media-left--tutorial">
   <div class="media-left__content">
     <strong>Darwin Lau</strong>
-    <p><em>Invited speaker.</em> Associate Professor in the Department of Mechanical and Automation Engineering at The Chinese University of Hong Kong. He received his B.Eng. (First Class Honours) and B.CS. from the University of Melbourne in 2008, and his Ph.D. in robotics there in 2014. His research focuses on robot manipulation, including the analysis, design, optimization, and control of novel mechanisms and human-robot teleoperation. His work spans cable-driven parallel robots, bio-inspired robots, building-construction robotics, musculoskeletal robots, and wearable assistive devices.</p>
+    <p><em>Invited speaker.</em> Associate Professor in the Department of Mechanical and Automation Engineering at The Chinese University of Hong Kong, where he joined in 2015. He received his B.Eng. (First Class Honours) and B.CS. from the University of Melbourne in 2008, and his Ph.D. in robotics there in 2014. From 2014 to 2015, he was a postdoctoral research fellow at the Institute of Intelligent Systems and Robotics, University Pierre and Marie Curie. His research focuses on robot manipulation, including the analysis, design, optimization, and control of novel mechanisms and human-robot teleoperation. His work spans cable-driven parallel robots, bio-inspired robots, building-construction robotics, musculoskeletal robots, and wearable assistive devices.</p>
   </div>
 </div>
 
 <div class="media-left media-left--tutorial">
   <div class="media-left__content">
     <strong>Shanghang Zhang</strong>
-    <p><em>Invited speaker.</em> Assistant Professor in the School of Computer Science at Peking University.</p>
+    <p><em>Invited speaker.</em> Assistant Professor in the School of Computer Science at Peking University. She received her Ph.D. from Carnegie Mellon University and conducted postdoctoral research at the University of California, Berkeley. Her research focuses on embodied AI and multimodal large models. Her work has received more than 31,000 Google Scholar citations, and she received the AAAI 2021 Best Paper Award. She is also the author of <em>Deep Reinforcement Learning</em>, published by Springer Nature.</p>
   </div>
 </div>
 
@@ -86,7 +86,7 @@ The tutorial is organized around three modules:
 <div class="media-left media-left--tutorial">
   <div class="media-left__content">
     <strong>Xinrong Zhu</strong>
-    <p><em>Instructor.</em> Associate Professor and Assistant Dean at Shanghai Sanda University. She specializes in HarmonyOS development, OpenHarmony software-hardware collaboration, and medical data mining.</p>
+    <p><em>Instructor.</em> Associate Professor in the School of Computing and Intelligent Technology, Shanghai Sanda University, and Assistant Dean. She specializes in HarmonyOS development, OpenHarmony software-hardware collaboration, and medical data mining.</p>
   </div>
 </div>
 
@@ -97,7 +97,7 @@ The tutorial is organized around three modules:
 | **13:30 - 13:35** | Opening | Haibo Chen |
 | **13:35 - 13:55** | Invited Talk 1: Breakthroughs and Research Directions in OpenHarmony | Yubin Xia |
 | **13:55 - 14:15** | Invited Talk 2: Novel Robots and Human-Interaction for Building Construction and Smart Living | Darwin Lau |
-| **14:15 - 14:35** | Invited Talk 3: TBA | Shanghang Zhang |
+| **14:15 - 14:35** | Invited Talk 3: Multimodal Foundation Model in the Open World | Shanghang Zhang |
 | **14:35 - 14:55** | Invited Talk 4: TBA | Yang Li |
 | **14:55 - 15:05** | Coffee Break | -- |
 | **15:05 - 15:50** | Lecture 1 & Exercise 1: Sim-to-Real Frontiers for Embodied Intelligence -- Paradigms, Metrics, and Hands-On Deployment with MuJoCo and OH-EDU | Xinrong Zhu |
@@ -115,7 +115,7 @@ This talk presents the latest OpenHarmony academic breakthroughs, pinpointing cr
 
 The operations of our cities and quality of life are increasingly affected by an ageing workforce and labor shortages, particularly for dangerous or harsh work. This talk introduces cable-driven robots, human-robot interaction techniques, and real-world applications in building construction, utilities maintenance, and assistive devices. It covers reconfigurable mechanisms, underactuated suspended systems, flexible robots, and the advances in mechanism design, kinematics, dynamics, workspace analysis, control, and intelligence needed to operate them in complex environments.
 
-### Invited Talk 3: TBA
+### Invited Talk 3: Multimodal Foundation Model in the Open World
 
 Topic abstract to be announced.
 
