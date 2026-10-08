@@ -44,6 +44,9 @@ The tutorial is organized around three modules:
 </div>
 
 <div class="media-left media-left--tutorial">
+  <div class="media-left__image">
+    <img src="/imgs/xinrong-zhu.jpg" alt="Xinrong Zhu">
+  </div>
   <div class="media-left__content">
     <strong>Xinrong Zhu</strong>
     <p>Associate Professor and Assistant Dean at Shanghai Sanda University, March 8th Red Banner Pacesetter, Huawei Developer Expert (HDE), and HarmonyOS Pioneer. She specializes in HarmonyOS development, OpenHarmony software-hardware collaboration, and medical data mining. She leads multiple provincial and ministerial projects, has published textbooks, and guides students to win national Class A competition awards. Email: <a href="mailto:zhuxinrong@sandau.edu.cn">zhuxinrong@sandau.edu.cn</a>.</p>
@@ -63,6 +66,9 @@ The tutorial is organized around three modules:
 </div>
 
 <div class="media-left media-left--tutorial">
+  <div class="media-left__image">
+    <img src="/imgs/darwin-lau.jpg" alt="Darwin Lau">
+  </div>
   <div class="media-left__content">
     <strong>Darwin Lau</strong>
     <p><em>Invited speaker.</em> Associate Professor in the Department of Mechanical and Automation Engineering at The Chinese University of Hong Kong, where he joined in 2015. He received his B.Eng. (First Class Honours) and B.CS. from the University of Melbourne in 2008, and his Ph.D. in robotics there in 2014. From 2014 to 2015, he was a postdoctoral research fellow at the Institute of Intelligent Systems and Robotics, University Pierre and Marie Curie, Paris. His research focuses on robot manipulation, including the analysis, design, optimization, and control of novel mechanisms and human-robot teleoperation. His work spans cable-driven parallel robots, bio-inspired robots, building-construction robotics, musculoskeletal robots, and wearable assistive devices.</p>
@@ -70,6 +76,9 @@ The tutorial is organized around three modules:
 </div>
 
 <div class="media-left media-left--tutorial">
+  <div class="media-left__image">
+    <img src="/imgs/shanghang-zhang.jpg" alt="Shanghang Zhang">
+  </div>
   <div class="media-left__content">
     <strong>Shanghang Zhang</strong>
     <p><em>Invited speaker.</em> Assistant Professor in the School of Computer Science at Peking University. She received her Ph.D. from Carnegie Mellon University and conducted postdoctoral research at the University of California, Berkeley. Her research focuses on embodied AI and multimodal large models. Her work has received more than 31,000 Google Scholar citations, and she received the AAAI 2021 Best Paper Award. She is also the author of <em>Deep Reinforcement Learning</em>, published by Springer Nature, with more than 300,000 global e-book downloads. She serves as an Associate Editor for IEEE RA-L/MTAP and on the senior program committee or as an area chair for AAAI, NeurIPS, and CoRL.</p>
@@ -77,6 +86,9 @@ The tutorial is organized around three modules:
 </div>
 
 <div class="media-left media-left--tutorial">
+  <div class="media-left__image">
+    <img src="/imgs/yang-li.jpg" alt="Yang Li">
+  </div>
   <div class="media-left__content">
     <strong>Yang Li</strong>
     <p><em>Invited speaker.</em> Tenure-track Assistant Professor at the John Hopcroft Center, School of Computer Science, Shanghai Jiao Tong University. He received his Ph.D. in Computer Science from the University of Manchester and was previously a Research Scientist at Huawei London Research Centre. His research spans multi-agent systems, embodied intelligence, and AI for Science, with a focus on adaptive decision-making for embodied multi-agent systems in open worlds. His work has appeared at ICML, NeurIPS, CoRL, JAIR, and RAL. He received the Championship and Outstanding Performance Award at the IROS 2025 Quadruped Robot Challenge, and the 2025 Best Technical Breakthrough Award at Huawei London Research Centre. He is an Associate Editor for IROS 2026.</p>
@@ -84,6 +96,9 @@ The tutorial is organized around three modules:
 </div>
 
 <div class="media-left media-left--tutorial">
+  <div class="media-left__image">
+    <img src="/imgs/xinrong-zhu.jpg" alt="Xinrong Zhu">
+  </div>
   <div class="media-left__content">
     <strong>Xinrong Zhu</strong>
     <p><em>Instructor.</em> Associate Professor in the School of Computing and Intelligent Technology, Shanghai Sanda University, and Assistant Dean. She specializes in HarmonyOS development, OpenHarmony software-hardware collaboration, and medical data mining.</p>
@@ -91,6 +106,9 @@ The tutorial is organized around three modules:
 </div>
 
 <div class="media-left media-left--tutorial">
+  <div class="media-left__image">
+    <img src="/imgs/jianmin-xu.jpg" alt="Jianmin Xu">
+  </div>
   <div class="media-left__content">
     <strong>Jianmin Xu</strong>
     <p><em>Instructor.</em> Senior Engineer in the School of Computing and Intelligent Technology, Shanghai Sanda University; Member of the OpenHarmony Embodied Intelligence PMC; and Leader of the Shanghai Sanda University Huawei ICT Academy.</p>
