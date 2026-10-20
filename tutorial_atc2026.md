@@ -25,7 +25,7 @@ The tutorial is organized around three modules:
 
 ## Basic Information
 
-**Duration:** Half day, afternoon of November 15, 2026
+**Duration:** Half day, 13:30 - 17:45 on November 15, 2026
 
 **Location:** Salon I, Hyatt Hotel, Shatin, Hong Kong
 
@@ -119,16 +119,15 @@ The tutorial is organized around three modules:
 
 | Time | Topic | Speaker |
 |:--|:--|:--|
-| **13:30 - 13:35** | Opening | Haibo Chen |
-| **13:35 - 13:55** | Invited Talk 1: Breakthroughs and Research Directions in OpenHarmony | Yubin Xia |
-| **13:55 - 14:15** | Invited Talk 2: Novel Robots and Human-Interaction for Building Construction and Smart Living | Darwin Lau |
-| **14:15 - 14:35** | Invited Talk 3: Multimodal Foundation Model in the Open World | Shanghang Zhang |
-| **14:35 - 14:55** | Invited Talk 4: Embodied Multi-Agent Decision-Making for Open Worlds | Yang Li |
-| **14:55 - 15:05** | Coffee Break | -- |
-| **15:05 - 15:50** | Lecture 1 & Exercise 1: Sim-to-Real Frontiers for Embodied Intelligence -- Paradigms, Metrics, and Hands-On Deployment with MuJoCo and OH-EDU | Xinrong Zhu |
-| **15:50 - 16:35** | Lecture 2 & Exercise 2: OpenHarmony Foundations for Embodied Intelligence -- Sim-to-Real Simulation System Design and Verification | Jianmin Xu |
-| **16:35 - 17:20** | Lecture 3 & Exercise 3: OH-EDU and MuJoCo Integration -- Hardware-Software Co-Control, Joint Debugging, and Remote Control of Physical Devices | Xinrong Zhu |
-| **17:20 - 17:30** | Free Discussion | -- |
+| **13:30 - 13:45** | Invited Talk 1: Breakthroughs and Research Directions in OpenHarmony | Yubin Xia |
+| **13:45 - 14:20** | Invited Talk 2: Novel Robots and Human-Interaction for Building Construction and Smart Living | Darwin Lau |
+| **14:20 - 14:55** | Invited Talk 3: Multimodal Foundation Model in the Open World | Shanghang Zhang |
+| **14:55 - 15:30** | Invited Talk 4: Embodied Multi-Agent Decision-Making for Open Worlds | Yang Li |
+| **15:30 - 15:45** | Coffee Break | / |
+| **15:45 - 16:15** | Lecture 1 & Exercise 1: Sim-to-Real Frontiers for Embodied Intelligence — Paradigms, Metrics, and Hands-On Deployment with MuJoCo and OH-EDU | Xinrong Zhu |
+| **16:15 - 16:55** | Lecture 2 & Exercise 2: OpenHarmony Foundations for Embodied Intelligence — Sim-to-Real Simulation System Design and Verification | Jianmin Xu |
+| **16:55 - 17:35** | Lecture 3 & Exercise 3: OH-EDU and MuJoCo Integration — Hardware-Software Co-Control, Joint Debugging, and Remote Control of Physical Devices | Xinrong Zhu |
+| **17:35 - 17:45** | Free Discussion | / |
 
 ## Topics Introduction
 
