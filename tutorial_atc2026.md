@@ -1,6 +1,7 @@
 ---
 # Page settings
 layout: default
+compact_header: true
 keywords: OpenHarmony, embodied intelligence, ATC 2026, tutorial
 comments: false
 title: ATC 2026 Tutorial
