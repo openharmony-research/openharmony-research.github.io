@@ -3,12 +3,12 @@
 	<head>
 		{% include site-head.html %}
 	</head>
-	<body class="{{ site.doks.color_theme }}" data-spy="scroll" data-target=".js-scrollspy">
+	<body class="{{ site.doks.color_theme }}{% if page.compact_header %} tutorial-page{% endif %}" data-spy="scroll" data-target=".js-scrollspy">
 		{% include site-header.html %}
 		<div class="hero-subheader">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-7">
+					<div class="{% if page.compact_header and page.author.title == nil %}col-md-12{% else %}col-md-7{% endif %}">
 						<div class="align-container" data-mh>
 							<div class="align-inner">
 								{% if page.title %}
